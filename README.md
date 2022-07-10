@@ -10,16 +10,16 @@ There are different ways to track banpruptcy plays, and this is just 1 of them.
 
 Should you have any questions, send me a DM on Twitter [@idristrades](https://twitter.com/idristrades)
 
-![Tweet1](https://twitter.com/IdrisTrades/status/1544409358431313920)
 
-![Tweet2](https://twitter.com/IdrisTrades/status/1544675868093587456)
+[Watch Alert](https://twitter.com/IdrisTrades/status/1536803655386636290)
 
-![Tweet3](https://twitter.com/IdrisTrades/status/1536803655386636290)
+[Buy alert](https://twitter.com/IdrisTrades/status/1544409358431313920)
+
+[300%](https://twitter.com/IdrisTrades/status/1544675868093587456)
 
 
 
-
-# SEARCH QUERY #
+## SEARCH QUERY ##
 
 It runs from July 1st, 2022 to now (update the date so you get the most recent articles)
 Feel free to add new keywords and/or users for more articles.
