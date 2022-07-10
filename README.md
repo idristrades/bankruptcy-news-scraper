@@ -8,15 +8,19 @@ I alerted ENJY in my chatroom on Discord on July 1st. It went up 300% on Tuesday
 
 There are different ways to track banpruptcy plays, and this is just 1 of them.
 
-Should you have any questions, send me a DM on Twitter @idristrades
+Should you have any questions, send me a DM on Twitter [@idristrades](https://twitter.com/idristrades)
 
-https://twitter.com/IdrisTrades/status/1544409358431313920
+![](https://twitter.com/IdrisTrades/status/1544409358431313920)
 
-https://twitter.com/IdrisTrades/status/1544675868093587456
+![](https://twitter.com/IdrisTrades/status/1544675868093587456)
 
-https://twitter.com/IdrisTrades/status/1536803655386636290
+![](https://twitter.com/IdrisTrades/status/1536803655386636290)
 
 
-QUERY
 
-It runs from July 1st, 2022 (update the date so you get the most recent articles only)
+
+#QUERY#
+
+It runs from July 1st, 2022 to now (update the date adter since so you get the most recent articles only)
+Feel free to add new keywords and users for more articles.
+
