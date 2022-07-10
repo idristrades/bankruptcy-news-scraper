@@ -10,12 +10,11 @@ There are different ways to track banpruptcy plays, and this is just 1 of them.
 
 Should you have any questions, send me a DM on Twitter [@idristrades](https://twitter.com/idristrades)
 
+** ENJY ** [Buy alert](https://twitter.com/IdrisTrades/status/1544409358431313920)
 
-[Watch Alert](https://twitter.com/IdrisTrades/status/1536803655386636290)
+** ENJY ** [300%](https://twitter.com/IdrisTrades/status/1544675868093587456)
 
-[Buy alert](https://twitter.com/IdrisTrades/status/1544409358431313920)
-
-[300%](https://twitter.com/IdrisTrades/status/1544675868093587456)
+[2021-2022 Chapter 11 plays](https://twitter.com/IdrisTrades/status/1536803655386636290)
 
 
 
