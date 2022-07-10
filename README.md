@@ -13,3 +13,5 @@ Should you have any questions, send me a DM on Twitter @idristrades
 https://twitter.com/IdrisTrades/status/1544409358431313920
 
 https://twitter.com/IdrisTrades/status/1544675868093587456
+
+https://twitter.com/IdrisTrades/status/1536803655386636290
