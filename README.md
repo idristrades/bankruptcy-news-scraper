@@ -15,3 +15,8 @@ https://twitter.com/IdrisTrades/status/1544409358431313920
 https://twitter.com/IdrisTrades/status/1544675868093587456
 
 https://twitter.com/IdrisTrades/status/1536803655386636290
+
+
+QUERY
+
+It runs from July 1st, 2022 (update the date so you get the most recent articles only)
