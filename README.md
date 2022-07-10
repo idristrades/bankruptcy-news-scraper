@@ -1,4 +1,4 @@
-# bankruptcy-related-news-for-traders
+# bankruptcy-news-scraper-for-traders
 
 This program helps traders track companies that just filed for bankruptcy / chapter 11 so they don't miss on the opportunity to make over 100%+ in less than a week.
 
