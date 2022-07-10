@@ -5,7 +5,6 @@ query = "insolvency OR bankruptcy since:2022-07-01   from:newsfilterio OR from:W
 tweets = []
 limit = 7
 
-
 for tweet in sntwitter.TwitterSearchScraper(query).get_items():
 
     if len(tweets) == limit:
