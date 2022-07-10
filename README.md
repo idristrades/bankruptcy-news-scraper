@@ -21,6 +21,7 @@ Should you have any questions, send me a DM on Twitter [@idristrades](https://tw
 
 # SEARCH QUERY #
 
-It runs from July 1st, 2022 to now (update the date adter since so you get the most recent articles only)
-Feel free to add new keywords and users for more articles.
+It runs from July 1st, 2022 to now (update the date so you get the most recent articles)
+Feel free to add new keywords and/or users for more articles.
+Less is more.
 
