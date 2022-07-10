@@ -6,9 +6,7 @@ Chapter 11 plays are almost always multi-baggers. Some of them did over 1000% in
 
 I alerted ENJY in my chatroom on Discord on July 1st. It went up 300% on Tuesday/Wednesday after the long week.
 
-There are different ways to track banpruptcy plays, and this is just 1 of them.
-
-Should you have any questions, send me a DM on Twitter [@idristrades](https://twitter.com/idristrades)
+*There are different ways to track banpruptcy plays, and this is just 1 of them.*
 
 ** ENJY ** [Buy alert](https://twitter.com/IdrisTrades/status/1544409358431313920)
 
@@ -18,9 +16,12 @@ Should you have any questions, send me a DM on Twitter [@idristrades](https://tw
 
 
 
-## SEARCH QUERY ##
+## QUERY ##
 
 It runs from July 1st, 2022 to now (update the date so you get the most recent articles)
 Feel free to add new keywords and/or users for more articles.
-*Less is more*.
 
+*FYI: Less is more*.
+
+
+Should you have any questions, send me a DM on Twitter [@idristrades](https://twitter.com/idristrades)
