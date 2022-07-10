@@ -6,7 +6,7 @@ Chapter 11 plays are almost always multi-baggers. Some of them did over 1000% in
 
 I alerted ENJY in my chatroom on Discord on July 1st. It went up 300% on Tuesday/Wednesday after the long week.
 
-*There are different ways to track banpruptcy plays, and this is just 1 of them.*
+*There are different ways to track bankruptcy plays, and this is just 1 of them.*
 
 ** ENJY ** [Buy alert](https://twitter.com/IdrisTrades/status/1544409358431313920)
 
