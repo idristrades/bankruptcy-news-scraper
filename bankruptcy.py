@@ -1,7 +1,7 @@
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 
-query = "insolvency OR bankruptcy since:2022-07-01   from:newsfilterio OR from:WSJbankruptcy"
+query = "insolvency OR bankruptcy since:2022-07-12   from:newsfilterio OR from:fastestalert OR from:WSJbankruptcy"
 tweets = []
 limit = 7
 
@@ -15,4 +15,4 @@ for tweet in sntwitter.TwitterSearchScraper(query).get_items():
 df = pd.DataFrame(tweets, columns=['Date', 'Username', 'Tweet', 'Url'])
 print(df)
 
-#If you want to save the data, you could use df.to_csv('tweets.csv')
+#to save the data, use df.to_csv('tweets.csv')
